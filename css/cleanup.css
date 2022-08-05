@@ -1,1 +1,28 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    height: 100vh;
+    width: 5%;
+    border-color: black;
+  }
+  
+  .parent{
+    display: none;
+  }
+
+  .tag-1{
+    display: none;
+  }
+
+  #wall{
+    display: none;
+  }
+
+  #tag-5{
+    display: none;
+  }
+
+  #wall{
+    background-color: aliceblue;
+    
+  }
